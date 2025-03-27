@@ -3,7 +3,7 @@ export const projects = [
     {
         id: 1,
         project_name: "ICDigitalss",
-        background_color: "#E7FAFE",
+        background_color: "#EEFAFC",
         image: "assets/Images/IC Digitalss.png",
         
         skills: [
@@ -51,7 +51,7 @@ export const projects = [
     {
         id: 2,
         project_name: "Peerly Agent Platform",
-        background_color: "#E7FAFE",
+        background_color: "#D7F1F5",
         image: "assets/Images/Peerly Project.png",
         
         skills: [
@@ -111,7 +111,7 @@ export const projects = [
     {
         id: 4,
         project_name: "Tour Of Heroes",
-        background_color: "#D7F1F5",
+        background_color: "#EEFAFC",
         image: "assets/Images/Component 1 (1).png",
         skills: [
             "Angular",

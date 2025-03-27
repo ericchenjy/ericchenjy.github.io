@@ -25,11 +25,23 @@
     .social-media-section{
         margin: 0  3rem 0 0;
 
+        .linkedIn:hover{
+            opacity: 60%;
+        }
+
+        .gitHub:hover{
+            opacity: 60%;
+        }
+
         img{
             margin: 0.5rem;
             width: 60px;
         }
+
+    
     }
+
+   
 }
 
 @media only screen and (max-width: 899px) {
@@ -52,11 +64,21 @@
     
         .social-media-section{
             margin: 0  2rem 0 0;
+
+            .linkedIn:hover{
+                opacity: 60%;
+            }
+    
+            .gitHub:hover{
+                opacity: 60%;
+            }
     
             img{
                 margin: 0.3rem;
                 width: 40px;
             }
+
+            
         }
     }
 }
@@ -80,6 +102,14 @@
     
         .social-media-section{
             margin: 0  1rem 0 0;
+
+            .linkedIn:hover{
+                opacity: 60%;
+            }
+    
+            .gitHub:hover{
+                opacity: 60%;
+            }
     
             img{
                 margin: 0.1rem;
@@ -108,6 +138,14 @@
     
         .social-media-section{
             margin: 0  0.5rem 0 0;
+
+            .linkedIn:hover{
+                opacity: 60%;
+            }
+    
+            .gitHub:hover{
+                opacity: 60%;
+            }
     
             img{
                 margin: 0.1rem;
